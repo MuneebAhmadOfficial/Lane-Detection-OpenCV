@@ -31,7 +31,7 @@ The project is organized into a clear processing stream:
 - Matplotlib
 
 ## 📖 How to Use
-1. Open `Lab_Task_05.ipynb` in Google Colab.
+1. Open `Lane_Detection_OpenCV.ipynb` in Google Colab.
 2. Run the cells in order.
 3. Upload an image of a road or highway when prompted.
 4. Adjust the ROI vertices in the code if you are using an image with a different camera angle!
